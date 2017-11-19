@@ -1,3 +1,5 @@
+// This file creates the necessary final (public) exam files given exam data content files.
+
 var q = 11; // keep iterating, file name
 var json_q = 4; //reset for 9+ weeks, exam content
 var week = 11; //keep iterating, file name

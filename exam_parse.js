@@ -1,3 +1,5 @@
+// Parse an exam (make sense of data from PDF conversion)
+
 var q = 1;
 var cluster = "Hospitality";
 
