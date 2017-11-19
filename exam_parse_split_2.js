@@ -1,3 +1,5 @@
+// Parse remaining exception exams where PDF conversion is unreliable
+
 var q = 4;
 var cluster = "Hospitality";
 

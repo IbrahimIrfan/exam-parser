@@ -1,3 +1,5 @@
+// Parse a split exam (make sense of data from PDF conversion when answer key is separate from questions)
+
 var q = 5;
 var cluster = "Hospitality";
 
